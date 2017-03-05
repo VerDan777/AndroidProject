@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidProject</string>
+    <string name="myscreen">Этот текст написан не в activiyumain.xml а в myscrenn.xml</string>
+    <string name="activity_main3">Lalala</string>
+</resources>
